@@ -1,19 +1,20 @@
+![roanoke](https://raw.github.com/antivapor/roanoke/master/roanoke.png)
 #Roanoke
 Roanoke's Lost Pale Ale
 
 A tasty treatise between English and American IPA's, this is our Roanoke's Lost Pale Ale recipe.
 
-We used English style hops and English style grain but adjusted the recipe to have a very strong hoppy aroma and a astringent flaver akin to a American hophead.
+We used English style hops and English style grain but adjusted the recipe to have a very strong hoppy aroma and a astringent flaver to make a black American IPA.
 
 \- Mike and Tom, September 22, 2012
 
 ##Recipe
 * seven pounds of Muntons Amber Dried Malt Extract (color 18 EBC / Lovibond 7) (UK)
 * one pound British crystal malt (UK)
-* half'a pound malted barley, toasted 15 minutes at 350°F
+* half'a pound British Crisp malted barley, toasted 15 minutes at 350°F (UK)
 * three ounces Northern Brewer hops, for boiling (13 HBU) (US)
 * two ounces Cascade hops, one finishing, one for flavoring mid-boil (US)
-* two vials of liquid ale yeast (35mL each), White Labs London Ale Yeast (WLP013 (first brew, both from lot 1013Ttb7747601))
+* one vial of liquid ale yeast (35mL), White Labs London Ale Yeast
 * 1 cup of corn sugar, for bottling
 
 ###Brew Day
@@ -24,7 +25,7 @@ We used English style hops and English style grain but adjusted the recipe to ha
 5. Add one ounce of Cascade hops, cover and turn off heat. Wait 3 min before sparging the wort.
 6. Sparge the wort into cold water. Have filtered water pre-chilled onhand to bring your level up to the 5 gallon mark on your 5.5 gallon bucket.
 7. If desired, place bags of ice into the bucket to hasten the temperature drop. Place the lid on lightly to protect against anything dropping into the mix.
-8. When the temperature has dropped below 75°F add the two vials of London Ale Yeast.
+8. When the temperature has dropped below 75°F add the vial of London Ale Yeast.
 9. Put your lid on and use a blowoff tube for at least the first couple days (36 to 48 hrs) before using a bubbler, if not the whole time.
 10. In eight days from the brew day, it will be time to bottle! 
 
