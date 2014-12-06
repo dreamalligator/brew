@@ -27,7 +27,7 @@ We used English style hops and English style grain but adjusted the recipe to ha
 7. If desired, place bags of ice into the bucket to hasten the temperature drop. Place the lid on lightly to protect against anything dropping into the mix.
 8. When the temperature has dropped below 75°F add the vial of London Ale Yeast.
 9. Put your lid on and use a blowoff tube for at least the first couple days (36 to 48 hrs) before using a bubbler, if not the whole time.
-10. In eight days from the brew day, it will be time to bottle! 
+10. In eight days from the brew day, it will be time to bottle!
 
 ###Bottling Day
 1. Take 1 cup of corn sugar and boil in 1/2 cup of water. Let cool, then add this to your mix, stir.
@@ -36,7 +36,7 @@ We used English style hops and English style grain but adjusted the recipe to ha
 4. After a half hour, it is time for bottling! When siphoning off the beer, go ahead and get everything right down to the dregs. Roanoke doesn't believe in clarity (or a second fermentation)!
 
 ###Drinking Day
-Seven days after you bottled, it is time to harvest. Drink to your taste, pour into a mug or chilled pint glass. If you brewed exactingly, there is going to be some yeasties at the bottom of your bottle, feel free to save for an iterative batch. 
+Seven days after you bottled, it is time to harvest. Drink to your taste, pour into a mug or chilled pint glass. If you brewed exactingly, there is going to be some yeasties at the bottom of your bottle, feel free to save for an iterative batch.
 
 ##License
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
